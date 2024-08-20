@@ -1,6 +1,6 @@
 === Page Transfer for Elementor ===
 Contributors: raulpeixoto
-Tags: elementor, transfer, export, import, elementor, migrate
+Tags: elementor, transfer, export, import, page
 Requires at least: 6.0
 Tested up to: 6.6
 Requires PHP: 7.4

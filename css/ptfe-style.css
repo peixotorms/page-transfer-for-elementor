@@ -1,4 +1,4 @@
-#eei-import-modal {
+#ptfe-import-modal {
     display: none;
     position: fixed;
     z-index: 1000;
@@ -11,7 +11,7 @@
     background-color: rgba(0,0,0,0.4);
 }
 
-#eei-import-modal .modal-title-bar {
+#ptfe-import-modal .modal-title-bar {
     background-color: #f2f2f2;
     font-size: 22px;
     line-height: 32px;
@@ -20,7 +20,7 @@
     padding: 10px 20px;
 }
 
-#eei-import-modal .modal-content {
+#ptfe-import-modal .modal-content {
     background-color: #fefefe;
     margin: 15% auto;
     padding: 20px;
@@ -30,16 +30,16 @@
 }
 
 
-.eei-file-upload, .eei-file-import {
+.ptfe-file-upload, .ptfe-file-import {
 	padding: 10px 0;
 }
 
-.eei-file-feedback { display: none; }
+.ptfe-file-feedback { display: none; }
 
-#eei-import-form { padding: 0; margin: 0; }
+#ptfe-import-form { padding: 0; margin: 0; }
 
 
-#eei-import-modal .close {
+#ptfe-import-modal .close {
     color: #aaa;
     float: right;
     font-size: 38px;
@@ -47,8 +47,8 @@
     font-weight: bold;
 }
 
-#eei-import-modal .close:hover,
-#eei-import-modal .close:focus {
+#ptfe-import-modal .close:hover,
+#ptfe-import-modal .close:focus {
     color: black;
     text-decoration: none;
     cursor: pointer;
